@@ -1,5 +1,7 @@
 # chaistore
 
+[![Go Reference](https://pkg.go.dev/badge/go.elara.ws/chaistore.svg)](https://pkg.go.dev/go.elara.ws/chaistore)
+
 A [Chai](https://github.com/chaisql/chai)-based session store for [SCS](https://github.com/alexedwards/scs).
 
 ## Setup
